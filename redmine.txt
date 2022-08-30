@@ -1,0 +1,2 @@
+ celery异步任务执行框架：
+ 启动：celery -A celery_tasks.main worker -l info
