@@ -1,6 +1,7 @@
 from django.db import models
 
 # Create your models here.
+from meiduo.utils.models import BaseModel
 
 
 class Area(models.Model):
@@ -15,3 +16,5 @@ class Area(models.Model):
 
     def __str__(self):
         return self.name
+
+

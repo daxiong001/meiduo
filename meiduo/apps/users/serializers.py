@@ -5,9 +5,10 @@ from rest_framework_jwt.settings import api_settings
 from django_redis import get_redis_connection
 from rest_framework import serializers
 
-from .models import User
+from .models import User, Address
 from celery_tasks.email.tasks import send_verify_email
 from .utils import generate_email_verify_url
+from ..goods.models import SKU
 
 logger = logging.getLogger("django")
 
@@ -117,3 +118,78 @@ class UserEmailSerializer(serializers.ModelSerializer):
         send_verify_email.delay(instance.email, verify_url=verify_url)
 
         return instance
+
+
+class AddressSerializer(serializers.ModelSerializer):
+    user = serializers.HiddenField(default=serializers.CurrentUserDefault())
+    province = serializers.StringRelatedField(read_only=True)
+    city = serializers.StringRelatedField(read_only=True)
+    district = serializers.StringRelatedField(read_only=True)
+    province_id = serializers.IntegerField(label='省ID', required=True)
+    city_id = serializers.IntegerField(label='市ID', required=True)
+    district_id = serializers.IntegerField(label='区ID', required=True)
+
+    class Meta:
+        model = Address
+        exclude = ["is_deleted", "create_time", "update_time"]
+        extra_kwargs = {
+            'province': {
+                'required': True,
+                "error_messages": {
+                    'required': '省不能为空',
+                },
+                "help_text": "地址"
+            },
+            'city': {
+                'required': True,
+                "error_messages": {
+                    'required': '市不能为空',
+                },
+                "help_text": "市"
+            },
+            'district': {
+                'required': True,
+                "error_messages": {
+                    'required': '区不能为空',
+                },
+                "help_text": "区"
+            },
+        }
+
+
+class TitleSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Address
+        fields = ["title"]
+
+
+class UserBrowserHistorySerializer(serializers.Serializer):
+    sku_id = serializers.IntegerField(help_text="商品sku_id", label="商品sku_id", min_value=1)
+
+    def validate_sku_id(self, value):
+        try:
+            SKU.objects.get(id=value)
+        except SKU.DoesNotExist:
+            raise serializers.ValidationError("sku_id不存在")
+        return value
+
+    def create(self, validated_data):
+        sku_id = validated_data.get("sku_id")
+        user = self.context['request'].user
+        redis_conn = get_redis_connection("browser_history")
+        pl = redis_conn.pipeline()
+        # 去重
+        pl.lrem('history_%d' % user.id, 0, sku_id)
+        # 添加
+        pl.lpush('history_%d' % user.id, sku_id)
+        # 截取
+        pl.ltrim('history_%d' % user.id, 0, 4)
+        pl.execute()
+        return validated_data
+
+
+# class UserHistoryGoodsSerializer(serializers.ModelSerializer):
+#     class Meta:
+#         model = SKU
+#         fields = ["id", "name", "price", "default_image_url", "comments", "category"]
+
