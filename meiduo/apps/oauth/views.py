@@ -11,6 +11,7 @@ from rest_framework_jwt.settings import api_settings
 from .models import OAuthWeiBoUser
 from .serializers import WeiBoAuthUserSerializer
 from .utils import generate_save_user_token
+from ...utils.myresponse import APIResponse
 
 logger = logging.getLogger("django")
 
@@ -26,7 +27,7 @@ class WeiBoOauthURLView(APIView):
                       redirect_uri=settings.REDIRECT_URI)
         login_url = oauth.get_authorize_url()
 
-        return Response({'login_url': login_url})
+        return APIResponse({'login_url': login_url})
 
 
 class WeiBoAuthUserView(APIView):
@@ -59,7 +60,7 @@ class WeiBoAuthUserView(APIView):
 
             payload = jwt_payload_handler(user)
             token = jwt_encode_handler(payload)
-            return Response(
+            return APIResponse(
                 {
                     'token': token,
                     'username': user.username,
@@ -68,7 +69,7 @@ class WeiBoAuthUserView(APIView):
             )
         else:
             acc_token_openid = generate_save_user_token(weibo_uid)
-            return Response({'access_token': acc_token_openid})
+            return APIResponse({'access_token': acc_token_openid})
 
     def post(self, request):
         """openid绑定用户接口"""
@@ -82,7 +83,7 @@ class WeiBoAuthUserView(APIView):
         payload = jwt_payload_handler(user)
         token = jwt_encode_handler(payload)
 
-        return Response({
+        return APIResponse({
             "token": token,
             "username": user.username,
             "user_id": user.id

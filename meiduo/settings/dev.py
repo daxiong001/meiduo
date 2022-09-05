@@ -182,6 +182,14 @@ CACHES = {
         "OPTIONS": {
             "CLIENT_CLASS": "django_redis.client.DefaultClient",
         }
+    },
+    # 用户购物车记录
+    "cart": {
+        "BACKEND": "django_redis.cache.RedisCache",
+        "LOCATION": "redis://127.0.0.1:6379/3",
+        "OPTIONS": {
+            "CLIENT_CLASS": "django_redis.client.DefaultClient",
+        }
     }
 }
 
@@ -260,8 +268,8 @@ REST_FRAMEWORK = {
     ),
     # 分页默认数量
     # 'PAGE_SIZE': 10,
-
 }
+
 
 # CORS 追加⽩名单
 CORS_ORIGIN_WHITELIST = ('http://127.0.0.1:8080', 'http://localhost:8080',)

@@ -17,6 +17,7 @@ from .serializers import UserAddSerializer, AddressSerializer, UserEmailSerializ
 from .utils import check_verify_email
 from ..goods.models import SKU
 from ..goods.serializers import SKUSerializer
+from ...utils.myresponse import APIResponse
 
 
 class UserView(GenericViewSet, CreateModelMixin):
@@ -52,7 +53,7 @@ class EmailVerifyView(APIView):
             return Response({"message": "激活失败"}, status=status.HTTP_400_BAD_REQUEST)
         user.email_active = 1
         user.save()
-        return Response({"message": "ok"})
+        return APIResponse({"message": "ok"})
 
 
 @permission_classes((IsAuthenticated,))
@@ -71,13 +72,13 @@ class AddressView(ModelViewSet):
         serializer = self.get_serializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         serializer.save()
-        return Response(serializer.data, status=status.HTTP_201_CREATED)
+        return APIResponse(serializer.data, status=status.HTTP_201_CREATED)
 
     def destroy(self, request, *args, **kwargs):
         address = self.get_object()
         address.is_deleted = True
         address.save()
-        return Response(status=status.HTTP_204_NO_CONTENT)
+        return APIResponse(status=status.HTTP_204_NO_CONTENT)
 
     @action(methods=['put'], detail=True)
     def title(self, request, pk=None):
@@ -85,14 +86,14 @@ class AddressView(ModelViewSet):
         serializer = TitleSerializer(instance=address, data=request.data)
         serializer.is_valid(raise_exception=True)
         serializer.save()
-        return Response(serializer.data)
+        return APIResponse(serializer.data)
 
     @action(methods=["put"], detail=True)
     def status(self, request, pk=None):
         address = self.get_object()
         request.user.default_address = address
         request.user.save()
-        return Response({"message": "ok"}, status=status.HTTP_200_OK)
+        return APIResponse({"message": "ok"}, status=status.HTTP_200_OK)
 
 
 @permission_classes((IsAuthenticated,))

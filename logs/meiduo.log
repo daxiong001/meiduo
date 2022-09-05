@@ -12273,3 +12273,1613 @@ INFO 2022-09-03 18:35:47,908 autoreload 266 /Users/daixiongkun/PycharmProjects/d
 INFO 2022-09-03 18:35:48,846 autoreload 677 Watching for file changes with StatReloader
 INFO 2022-09-03 18:40:10,024 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/urls.py changed, reloading.
 INFO 2022-09-03 18:40:11,671 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 18:49:06,903 basehttp 187 "OPTIONS /user/api/v1/userDetail/2/ HTTP/1.1" 200 0
+INFO 2022-09-03 18:49:06,935 basehttp 187 "GET /user/api/v1/userDetail/2/ HTTP/1.1" 200 88
+INFO 2022-09-03 18:49:06,942 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-03 18:49:06,963 basehttp 187 "GET /user/api/v1/history/add/ HTTP/1.1" 200 1226
+INFO 2022-09-03 18:53:20,464 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/urls.py changed, reloading.
+INFO 2022-09-03 18:53:21,401 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 18:53:34,090 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 18:53:49,441 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 18:55:31,916 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 18:56:04,051 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 18:56:07,223 basehttp 187 "GET /goods/api/v1/115/sku/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1387
+INFO 2022-09-03 18:56:08,532 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-03 18:56:08,550 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-03 18:56:10,536 basehttp 187 "OPTIONS /carts/ HTTP/1.1" 200 0
+WARNING 2022-09-03 18:56:10,564 log 241 Not Found: /carts/
+WARNING 2022-09-03 18:56:10,564 basehttp 187 "POST /carts/ HTTP/1.1" 404 3225
+INFO 2022-09-03 18:56:11,485 basehttp 187 "OPTIONS /carts/ HTTP/1.1" 200 0
+WARNING 2022-09-03 18:56:11,497 log 241 Not Found: /carts/
+WARNING 2022-09-03 18:56:11,498 basehttp 187 "POST /carts/ HTTP/1.1" 404 3225
+INFO 2022-09-03 18:57:15,107 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/urls.py changed, reloading.
+INFO 2022-09-03 18:57:15,927 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 19:22:59,827 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 19:23:00,970 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 19:30:50,393 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 19:30:51,672 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 19:31:07,159 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 20:31:07,533 views 28 Sat Sep  3 20:31:07 2022: generate_static_index_html》》》》调用生成静态html文件
+INFO 2022-09-03 20:31:08,184 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-03 20:31:08,214 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-03 20:43:22,089 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 20:43:23,190 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 20:44:03,680 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 20:44:04,591 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 20:44:24,521 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 20:44:25,400 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 20:44:57,606 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 20:44:58,483 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 20:46:48,576 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 20:46:49,628 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 20:47:31,172 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 20:47:32,111 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 20:48:36,481 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 20:48:37,385 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 21:03:03,549 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 21:03:04,842 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 21:04:14,166 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 21:04:15,041 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 21:04:57,742 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 21:04:58,589 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 21:14:04,454 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 21:14:05,368 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 21:14:13,073 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 21:14:13,783 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 21:15:55,407 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 21:16:13,412 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 22:16:13,746 views 28 Sat Sep  3 22:16:13 2022: generate_static_index_html》》》》调用生成静态html文件
+INFO 2022-09-03 22:16:13,757 views 28 Sat Sep  3 22:16:13 2022: generate_static_index_html》》》》调用生成静态html文件
+INFO 2022-09-03 22:16:14,563 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-03 22:16:14,603 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-03 23:16:13,834 views 28 Sat Sep  3 23:16:13 2022: generate_static_index_html》》》》调用生成静态html文件
+INFO 2022-09-03 23:16:13,841 views 28 Sat Sep  3 23:16:13 2022: generate_static_index_html》》》》调用生成静态html文件
+INFO 2022-09-03 23:16:14,621 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-03 23:16:14,640 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-03 23:38:57,447 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-03 23:38:57,490 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-03 23:38:57,680 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 23:38:58,827 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 23:38:59,683 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-03 23:38:59,729 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-03 23:39:03,239 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+WARNING 2022-09-03 23:39:03,265 log 241 Not Found: /carts/api/v1/cart/
+WARNING 2022-09-03 23:39:03,266 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 404 3645
+INFO 2022-09-03 23:39:27,339 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/urls.py changed, reloading.
+INFO 2022-09-03 23:39:28,216 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 23:39:31,322 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+ERROR 2022-09-03 23:39:31,387 log 241 Internal Server Error: /carts/api/v1/cart/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 17, in create
+    serializer = self.get_serializer(data=request.data)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'CartView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+ERROR 2022-09-03 23:39:31,388 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 500 105846
+INFO 2022-09-03 23:40:48,816 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 23:40:53,488 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-03 23:40:53,533 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-03 23:41:00,254 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+ERROR 2022-09-03 23:41:00,320 log 241 Internal Server Error: /carts/api/v1/cart/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/asgiref/local.py", line 105, in __getattr__
+    raise AttributeError(f"{self!r} object has no attribute {key!r}")
+AttributeError: <asgiref.local.Local object at 0x7f9f203a3490> object has no attribute 'cart'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py", line 46, in create
+    redis_conn = get_redis_connection('cart')
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.core.cache.backends.base.InvalidCacheBackendError: The connection 'cart' doesn't exist.
+ERROR 2022-09-03 23:41:00,321 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 500 115761
+INFO 2022-09-03 23:42:15,509 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 23:42:16,637 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-03 23:42:16,674 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-03 23:42:18,769 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+ERROR 2022-09-03 23:42:18,790 exceptions 23 [<meiduo.apps.carts.views.CartView object at 0x7f9ac0fb5ca0>] Invalid input of type: 'NoneType'. Convert to a bytes, string, int or float first.
+ERROR 2022-09-03 23:42:18,791 log 241 Insufficient Storage: /carts/api/v1/cart/
+ERROR 2022-09-03 23:42:18,791 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 507 35
+ERROR 2022-09-03 23:43:14,899 log 241 Internal Server Error: /carts/api/v1/cart/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 63, in get_queryset
+    assert self.queryset is not None, (
+AssertionError: 'CartView' should either include a `queryset` attribute, or override the `get_queryset()` method.
+ERROR 2022-09-03 23:43:14,901 basehttp 187 "GET /carts/api/v1/cart/ HTTP/1.1" 500 101125
+ERROR 2022-09-03 23:43:27,049 log 241 Internal Server Error: /carts/api/v1/cart/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 63, in get_queryset
+    assert self.queryset is not None, (
+AssertionError: 'CartView' should either include a `queryset` attribute, or override the `get_queryset()` method.
+ERROR 2022-09-03 23:43:27,049 basehttp 187 "GET /carts/api/v1/cart/ HTTP/1.1" 500 101262
+INFO 2022-09-03 23:43:55,904 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-03 23:43:57,755 log 241 Internal Server Error: /carts/api/v1/cart/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 45, in list
+    serializer = self.get_serializer(queryset, many=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'CartView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+ERROR 2022-09-03 23:43:57,756 basehttp 187 "GET /carts/api/v1/cart/ HTTP/1.1" 500 106072
+INFO 2022-09-03 23:44:18,121 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-03 23:44:19,398 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-03 23:44:27,525 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-03 23:44:29,790 log 241 Internal Server Error: /carts/api/v1/cart/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 63, in get_queryset
+    assert self.queryset is not None, (
+AssertionError: 'CartView' should either include a `queryset` attribute, or override the `get_queryset()` method.
+ERROR 2022-09-03 23:44:29,791 basehttp 187 "GET /carts/api/v1/cart/ HTTP/1.1" 500 101262
+INFO 2022-09-04 00:03:09,197 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 00:04:03,259 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 00:04:08,746 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-04 00:04:08,775 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-04 00:04:10,237 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+WARNING 2022-09-04 00:04:10,259 log 241 Not Found: /carts/api/v1/cart/
+WARNING 2022-09-04 00:04:10,260 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 404 3314
+INFO 2022-09-04 00:04:45,094 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-04 00:04:45,142 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-04 00:04:45,906 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/urls.py changed, reloading.
+INFO 2022-09-04 00:04:46,677 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 00:04:48,758 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+WARNING 2022-09-04 00:04:48,791 log 241 Not Found: /carts/api/v1/cart/
+WARNING 2022-09-04 00:04:48,791 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 404 3313
+WARNING 2022-09-04 00:04:56,820 log 241 Not Found: /carts/api/v1/cart/
+WARNING 2022-09-04 00:04:56,821 basehttp 187 "GET /carts/api/v1/cart/ HTTP/1.1" 404 3312
+INFO 2022-09-04 00:05:31,612 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/urls.py changed, reloading.
+INFO 2022-09-04 00:05:32,294 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-04 00:05:32,736 log 241 Internal Server Error: /carts/api/v1/cart/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/renderers.py", line 554, in get_raw_data_form
+    serializer = view.get_serializer()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'CartView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+ERROR 2022-09-04 00:05:32,737 basehttp 187 "GET /carts/api/v1/cart/ HTTP/1.1" 500 99415
+ERROR 2022-09-04 00:05:40,385 log 241 Internal Server Error: /carts/api/v1/cart/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/renderers.py", line 724, in render
+    context = self.get_context(data, accepted_media_type, renderer_context)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/renderers.py", line 655, in get_context
+    raw_data_post_form = self.get_raw_data_form(data, view, 'POST', request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/renderers.py", line 554, in get_raw_data_form
+    serializer = view.get_serializer()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 108, in get_serializer
+    serializer_class = self.get_serializer_class()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/generics.py", line 122, in get_serializer_class
+    assert self.serializer_class is not None, (
+AssertionError: 'CartView' should either include a `serializer_class` attribute, or override the `get_serializer_class()` method.
+ERROR 2022-09-04 00:05:40,386 basehttp 187 "GET /carts/api/v1/cart/ HTTP/1.1" 500 99415
+INFO 2022-09-04 00:06:30,022 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-04 00:06:30,861 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-09-04 00:06:33,952 log 241 Method Not Allowed: /carts/api/v1/cart/
+WARNING 2022-09-04 00:06:33,953 basehttp 187 "GET /carts/api/v1/cart/ HTTP/1.1" 405 5650
+INFO 2022-09-04 00:06:33,981 basehttp 187 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2022-09-04 00:06:33,982 basehttp 187 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2022-09-04 00:06:33,982 basehttp 187 "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+INFO 2022-09-04 00:06:33,983 basehttp 187 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+ERROR 2022-09-04 00:07:16,222 exceptions 23 [<meiduo.apps.carts.views.CartView object at 0x7fbba14f18b0>] Invalid input of type: 'NoneType'. Convert to a bytes, string, int or float first.
+ERROR 2022-09-04 00:07:16,247 log 241 Insufficient Storage: /carts/api/v1/cart/
+ERROR 2022-09-04 00:07:16,248 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 507 5643
+INFO 2022-09-04 00:07:27,713 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-04 00:07:27,731 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-04 00:07:28,961 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+ERROR 2022-09-04 00:07:28,974 exceptions 23 [<meiduo.apps.carts.views.CartView object at 0x7fbb986a9280>] Invalid input of type: 'NoneType'. Convert to a bytes, string, int or float first.
+ERROR 2022-09-04 00:07:28,975 log 241 Insufficient Storage: /carts/api/v1/cart/
+ERROR 2022-09-04 00:07:28,976 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 507 35
+INFO 2022-09-04 00:08:14,446 basehttp 187 "GET /goods/api/v1/115/sku/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1387
+INFO 2022-09-04 00:08:17,709 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+WARNING 2022-09-04 00:08:17,712 log 241 Unauthorized: /carts/api/v1/cart/
+WARNING 2022-09-04 00:08:17,712 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 401 38
+INFO 2022-09-04 00:08:54,909 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 00:08:59,151 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+WARNING 2022-09-04 00:08:59,166 log 241 Unauthorized: /carts/api/v1/cart/
+WARNING 2022-09-04 00:08:59,166 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 401 38
+INFO 2022-09-04 00:09:23,093 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 00:09:27,553 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+WARNING 2022-09-04 00:09:27,579 log 241 Unauthorized: /carts/api/v1/cart/
+WARNING 2022-09-04 00:09:27,580 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 401 38
+WARNING 2022-09-04 00:09:33,647 log 241 Bad Request: /carts/api/v1/cart/
+WARNING 2022-09-04 00:09:33,647 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 400 5729
+INFO 2022-09-04 00:09:34,567 basehttp 187 "GET /goods/api/v1/115/sku/ HTTP/1.1" 200 13355
+INFO 2022-09-04 00:09:34,602 basehttp 187 "GET /static/rest_framework/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+INFO 2022-09-04 00:10:10,158 basehttp 187 "GET /goods/api/v1/115/sku/ HTTP/1.1" 200 13355
+INFO 2022-09-04 00:10:10,600 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/carts/views.py changed, reloading.
+INFO 2022-09-04 00:10:11,923 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 00:10:14,370 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+INFO 2022-09-04 00:11:03,546 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 201 41
+INFO 2022-09-04 00:11:26,683 basehttp 187 "GET /goods/api/v1/115/sku/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1387
+INFO 2022-09-04 00:11:27,995 basehttp 187 "GET /goods/api/v1/115/sku/?page=3&page_size=5&ordering=-create_time HTTP/1.1" 200 1087
+INFO 2022-09-04 00:11:31,201 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+INFO 2022-09-04 00:12:00,989 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 201 41
+INFO 2022-09-04 00:12:50,505 basehttp 187 "OPTIONS /user/api/v1/authorizations/ HTTP/1.1" 200 0
+INFO 2022-09-04 00:12:57,113 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 00:12:59,454 basehttp 187 "OPTIONS /user/api/v1/authorizations/ HTTP/1.1" 200 0
+INFO 2022-09-04 00:12:59,675 basehttp 187 "POST /user/api/v1/authorizations/ HTTP/1.1" 200 218
+INFO 2022-09-04 00:13:07,243 basehttp 187 "GET /goods/api/v1/115/sku/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1387
+INFO 2022-09-04 00:13:09,043 basehttp 187 "GET /goods/api/v1/115/sku/?page=3&page_size=5&ordering=-create_time HTTP/1.1" 200 1087
+INFO 2022-09-04 00:13:10,407 basehttp 187 "OPTIONS /cart/ HTTP/1.1" 200 0
+WARNING 2022-09-04 00:13:10,421 log 241 Not Found: /cart/
+WARNING 2022-09-04 00:13:10,422 basehttp 187 "GET /cart/ HTTP/1.1" 404 3221
+INFO 2022-09-04 00:13:28,649 basehttp 187 "GET /goods/api/v1/115/sku/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1387
+INFO 2022-09-04 00:13:30,262 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-04 00:13:30,308 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-04 00:13:32,516 basehttp 187 "OPTIONS /carts/api/v1/cart/ HTTP/1.1" 200 0
+ERROR 2022-09-04 00:13:32,529 exceptions 23 [<meiduo.apps.carts.views.CartView object at 0x7ff460fff430>] Invalid input of type: 'NoneType'. Convert to a bytes, string, int or float first.
+ERROR 2022-09-04 00:13:32,530 log 241 Insufficient Storage: /carts/api/v1/cart/
+ERROR 2022-09-04 00:13:32,531 basehttp 187 "POST /carts/api/v1/cart/ HTTP/1.1" 507 35
+INFO 2022-09-04 01:12:57,416 views 28 Sun Sep  4 01:12:57 2022: generate_static_index_html》》》》调用生成静态html文件
+INFO 2022-09-04 01:12:57,426 views 28 Sun Sep  4 01:12:57 2022: generate_static_index_html》》》》调用生成静态html文件
+INFO 2022-09-04 01:12:57,998 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-04 01:12:58,016 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 13
+INFO 2022-09-04 02:49:42,459 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 02:49:51,447 basehttp 187 "GET /goods/api/v1/115/sku/ HTTP/1.1" 200 13321
+WARNING 2022-09-04 02:50:03,070 log 241 Not Found: /goods/api/v1/115/sku/9
+WARNING 2022-09-04 02:50:03,071 basehttp 187 "GET /goods/api/v1/115/sku/9 HTTP/1.1" 404 3536
+INFO 2022-09-04 02:50:07,705 basehttp 187 "GET /goods/api/v1/115/sku/ HTTP/1.1" 200 13321
+INFO 2022-09-04 02:50:07,774 basehttp 187 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+WARNING 2022-09-04 02:50:24,170 log 241 Not Found: /
+WARNING 2022-09-04 02:50:24,171 basehttp 187 "GET / HTTP/1.1" 404 3188
+WARNING 2022-09-04 02:50:42,957 log 241 Not Found: /user/api/v1/
+WARNING 2022-09-04 02:50:42,960 basehttp 187 "GET /user/api/v1/ HTTP/1.1" 404 5517
+WARNING 2022-09-04 02:51:04,307 log 241 Not Found: /goods/api/v1/
+WARNING 2022-09-04 02:51:04,308 basehttp 187 "GET /goods/api/v1/ HTTP/1.1" 404 3509
+INFO 2022-09-04 02:51:24,885 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:10:02,675 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:10:04,601 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:14:14,878 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:14:17,801 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:14:19,113 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:19:00,801 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 03:19:04,154 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:19:06,096 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:19:06,757 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:21:25,377 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:21:25,958 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5290
+INFO 2022-09-04 03:21:26,311 autoreload 266 /Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py changed, reloading.
+INFO 2022-09-04 03:21:27,142 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-04 03:21:28,846 exceptions 26 [<meiduo.apps.goods.views.CategoryView object at 0x7faf506f0d60>] name 'Response' is not defined
+ERROR 2022-09-04 03:21:28,872 log 241 Insufficient Storage: /goods/api/v1/115/list/
+ERROR 2022-09-04 03:21:28,872 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 507 5336
+INFO 2022-09-04 03:22:00,999 autoreload 266 /Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py changed, reloading.
+INFO 2022-09-04 03:22:01,756 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 03:22:02,273 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5371
+INFO 2022-09-04 03:25:56,267 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 03:26:01,278 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5373
+INFO 2022-09-04 03:27:52,451 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 03:27:54,468 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5400
+INFO 2022-09-04 03:29:26,748 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/myresponse.py changed, reloading.
+INFO 2022-09-04 03:29:27,547 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 03:31:57,270 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/myresponse.py changed, reloading.
+INFO 2022-09-04 03:31:58,050 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 03:34:11,517 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/myresponse.py changed, reloading.
+INFO 2022-09-04 03:34:12,242 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 03:34:27,969 basehttp 187 "POST /user/api/v1/authorizations/ HTTP/1.1" 200 218
+INFO 2022-09-04 03:37:17,216 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/apps/oauth/views.py changed, reloading.
+INFO 2022-09-04 03:37:18,125 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 03:37:20,112 basehttp 187 "POST /user/api/v1/authorizations/ HTTP/1.1" 200 218
+ERROR 2022-09-04 03:38:57,199 exceptions 23 [<meiduo.apps.users.views.UserBrowserHistoryView object at 0x7fd448a56b20>] Error 61 connecting to 127.0.0.1:6379. Connection refused.
+ERROR 2022-09-04 03:38:57,201 log 241 Insufficient Storage: /user/api/v1/history/add/
+ERROR 2022-09-04 03:38:57,202 basehttp 187 "GET /user/api/v1/history/add/ HTTP/1.1" 507 47
+INFO 2022-09-04 03:39:05,966 basehttp 187 "GET /oauth/authorize/ HTTP/1.1" 200 164
+INFO 2022-09-04 03:39:31,419 basehttp 187 "GET /user/api/v1/userDetail/3 HTTP/1.1" 301 0
+WARNING 2022-09-04 03:39:31,423 log 241 Bad Request: /user/api/v1/userDetail/3/
+WARNING 2022-09-04 03:39:31,424 basehttp 187 "GET /user/api/v1/userDetail/3/ HTTP/1.1" 400 45
+ERROR 2022-09-04 03:56:53,771 exceptions 23 [<meiduo.apps.users.views.UserView object at 0x7fd46880f640>] Error 61 connecting to 127.0.0.1:6379. Connection refused.
+ERROR 2022-09-04 03:56:53,773 log 241 Insufficient Storage: /user/api/v1/addUser/
+ERROR 2022-09-04 03:56:53,774 basehttp 187 "POST /user/api/v1/addUser/ HTTP/1.1" 507 47
+INFO 2022-09-04 03:57:08,992 basehttp 187 "POST /user/api/v1/authorizations/ HTTP/1.1" 200 218
+INFO 2022-09-04 03:57:17,598 basehttp 187 "GET /user/api/v1/userDetail/3 HTTP/1.1" 301 0
+WARNING 2022-09-04 03:57:17,604 log 241 Bad Request: /user/api/v1/userDetail/3/
+WARNING 2022-09-04 03:57:17,604 basehttp 187 "GET /user/api/v1/userDetail/3/ HTTP/1.1" 400 45
+WARNING 2022-09-04 03:57:26,425 log 241 Bad Request: /user/api/v1/address/
+WARNING 2022-09-04 03:57:26,427 basehttp 187 "POST /user/api/v1/address/ HTTP/1.1" 400 45
+WARNING 2022-09-04 03:57:33,993 log 241 Bad Request: /user/api/v1/address/24/status/
+WARNING 2022-09-04 03:57:33,994 basehttp 187 "PUT /user/api/v1/address/24/status/ HTTP/1.1" 400 45
+ERROR 2022-09-04 03:57:38,630 exceptions 23 [<meiduo.apps.verifications.views.SMSCodeView object at 0x7fd468801d60>] Error 61 connecting to 127.0.0.1:6379. Connection refused.
+ERROR 2022-09-04 03:57:38,631 log 241 Insufficient Storage: /verifications/api/v1/sms_codes/17576075471/
+ERROR 2022-09-04 03:57:38,631 basehttp 187 "GET /verifications/api/v1/sms_codes/17576075471/ HTTP/1.1" 507 47
+INFO 2022-09-04 23:51:53,106 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-04 23:51:58,202 basehttp 187 "GET /admin/goods/sku/ HTTP/1.1" 302 0
+INFO 2022-09-04 23:51:58,229 basehttp 187 "GET /admin/login/?next=/admin/goods/sku/ HTTP/1.1" 200 2237
+INFO 2022-09-04 23:51:58,258 basehttp 187 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+INFO 2022-09-04 23:51:58,261 basehttp 187 "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+INFO 2022-09-04 23:51:58,262 basehttp 187 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+INFO 2022-09-04 23:51:58,262 basehttp 187 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2022-09-04 23:51:58,262 basehttp 187 "GET /static/admin/css/login.css HTTP/1.1" 200 954
+INFO 2022-09-04 23:51:58,264 basehttp 187 "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+INFO 2022-09-04 23:52:09,887 basehttp 187 "POST /admin/login/?next=/admin/goods/sku/ HTTP/1.1" 200 2375
+INFO 2022-09-04 23:52:09,899 basehttp 187 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2616
+INFO 2022-09-04 23:52:09,899 basehttp 187 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18575
+ERROR 2022-09-04 23:52:16,932 log 241 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/client/default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 61 connecting to 127.0.0.1:6379. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 440, in login
+    return LoginView.as_view(**defaults)(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/auth/views.py", line 67, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/generic/edit.py", line 153, in post
+    return self.form_valid(form)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/auth/views.py", line 98, in form_valid
+    auth_login(self.request, form.get_user())
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/auth/__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 298, in cycle_key
+    self.create()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/sessions/backends/cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/sessions/backends/cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/cache/backends/base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/client/default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/redis/commands/core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/redis/client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/redis/connection.py", line 1387, in get_connection
+    connection.connect()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/redis/connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to 127.0.0.1:6379. Connection refused.
+ERROR 2022-09-04 23:52:16,934 basehttp 187 "POST /admin/login/?next=/admin/goods/sku/ HTTP/1.1" 500 198236
+INFO 2022-09-04 23:52:42,531 basehttp 187 "GET /admin/login/ HTTP/1.1" 200 2204
+ERROR 2022-09-04 23:52:49,679 log 241 Internal Server Error: /admin/login/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/cache.py", line 31, in _decorator
+    return method(self, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/cache.py", line 137, in has_key
+    return self.client.has_key(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/client/default.py", line 666, in has_key
+    raise ConnectionInterrupted(connection=client) from e
+django_redis.exceptions.ConnectionInterrupted: Redis ConnectionError: Error 61 connecting to 127.0.0.1:6379. Connection refused.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/admin/sites.py", line 440, in login
+    return LoginView.as_view(**defaults)(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/generic/base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/debug.py", line 92, in sensitive_post_parameters_wrapper
+    return view(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 133, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/utils/decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/cache.py", line 62, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/auth/views.py", line 67, in dispatch
+    return super().dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/generic/base.py", line 119, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/generic/edit.py", line 153, in post
+    return self.form_valid(form)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/auth/views.py", line 98, in form_valid
+    auth_login(self.request, form.get_user())
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/auth/__init__.py", line 118, in login
+    request.session.cycle_key()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 298, in cycle_key
+    self.create()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/sessions/backends/cache.py", line 42, in create
+    self._session_key = self._get_new_session_key()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/sessions/backends/base.py", line 150, in _get_new_session_key
+    if not self.exists(session_key):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/contrib/sessions/backends/cache.py", line 73, in exists
+    bool(session_key) and (self.cache_key_prefix + session_key) in self._cache
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/cache/backends/base.py", line 299, in __contains__
+    return self.has_key(key)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/cache.py", line 38, in _decorator
+    raise e.__cause__
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django_redis/client/default.py", line 664, in has_key
+    return client.exists(key) == 1
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/redis/commands/core.py", line 1612, in exists
+    return self.execute_command("EXISTS", *names)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/redis/client.py", line 1235, in execute_command
+    conn = self.connection or pool.get_connection(command_name, **options)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/redis/connection.py", line 1387, in get_connection
+    connection.connect()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/redis/connection.py", line 617, in connect
+    raise ConnectionError(self._error_message(e))
+redis.exceptions.ConnectionError: Error 61 connecting to 127.0.0.1:6379. Connection refused.
+ERROR 2022-09-04 23:52:49,679 basehttp 187 "POST /admin/login/ HTTP/1.1" 500 197396
+INFO 2022-09-05 21:29:56,033 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 21:30:02,810 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5390
+INFO 2022-09-05 21:30:02,840 basehttp 187 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+INFO 2022-09-05 21:30:02,843 basehttp 187 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2022-09-05 21:31:46,466 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/myresponse.py changed, reloading.
+INFO 2022-09-05 21:31:47,436 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 21:31:48,246 basehttp 187 "GET /goods/api/v1/115/list/ HTTP/1.1" 200 5391
+INFO 2022-09-05 21:33:59,034 basehttp 187 "OPTIONS /user/api/v1/authorizations/ HTTP/1.1" 200 0
+INFO 2022-09-05 21:33:59,229 basehttp 187 "POST /user/api/v1/authorizations/ HTTP/1.1" 200 218
+INFO 2022-09-05 21:34:02,373 basehttp 187 "OPTIONS /user/api/v1/userDetail/2/ HTTP/1.1" 200 0
+INFO 2022-09-05 21:34:02,398 basehttp 187 "GET /user/api/v1/userDetail/2/ HTTP/1.1" 200 124
+INFO 2022-09-05 21:34:02,402 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-05 21:34:02,429 basehttp 187 "GET /user/api/v1/history/add/ HTTP/1.1" 200 1263
+INFO 2022-09-05 21:34:44,788 basehttp 187 "OPTIONS /user/api/v1/userDetail/2/ HTTP/1.1" 200 0
+INFO 2022-09-05 21:34:44,801 basehttp 187 "GET /user/api/v1/userDetail/2/ HTTP/1.1" 200 124
+INFO 2022-09-05 21:34:44,807 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-05 21:34:44,824 basehttp 187 "GET /user/api/v1/history/add/ HTTP/1.1" 200 1263
+INFO 2022-09-05 21:34:49,109 basehttp 187 "GET /goods/api/v1/115/sku/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1387
+INFO 2022-09-05 21:35:26,321 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-05 21:35:26,406 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 49
+INFO 2022-09-05 21:36:15,292 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/myresponse.py changed, reloading.
+INFO 2022-09-05 21:36:16,325 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 21:36:19,522 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-05 21:36:19,576 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 62
+INFO 2022-09-05 21:37:48,792 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/myresponse.py changed, reloading.
+INFO 2022-09-05 21:37:49,667 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 21:37:52,045 basehttp 187 "OPTIONS /user/api/v1/authorizations/ HTTP/1.1" 200 0
+WARNING 2022-09-05 21:37:52,264 log 241 Bad Request: /user/api/v1/authorizations/
+WARNING 2022-09-05 21:37:52,264 basehttp 187 "POST /user/api/v1/authorizations/ HTTP/1.1" 400 67
+INFO 2022-09-05 21:38:08,254 basehttp 187 "OPTIONS /user/api/v1/authorizations/ HTTP/1.1" 200 0
+INFO 2022-09-05 21:38:08,447 basehttp 187 "POST /user/api/v1/authorizations/ HTTP/1.1" 200 218
+INFO 2022-09-05 21:38:13,148 basehttp 187 "GET /goods/api/v1/115/sku/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1387
+INFO 2022-09-05 21:38:19,371 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-05 21:38:19,422 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 201 49
+INFO 2022-09-05 21:38:38,936 basehttp 187 "GET /user/api/v1/history/add/ HTTP/1.1" 200 1263
+WARNING 2022-09-05 21:38:50,133 log 241 Bad Request: /user/api/v1/history/add/
+WARNING 2022-09-05 21:38:50,134 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 400 25
+INFO 2022-09-05 21:43:00,228 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 21:43:01,213 autoreload 677 Watching for file changes with StatReloader
+WARNING 2022-09-05 21:43:02,999 log 241 Bad Request: /user/api/v1/history/add/
+WARNING 2022-09-05 21:43:03,000 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 400 61
+INFO 2022-09-05 21:45:49,781 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 21:45:53,026 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 28
+INFO 2022-09-05 21:46:09,005 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 21:46:09,847 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 21:46:11,201 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 21:46:11,201 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 28
+ERROR 2022-09-05 21:46:13,231 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 21:46:13,232 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 28
+ERROR 2022-09-05 21:46:32,531 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 21:46:32,532 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 28
+INFO 2022-09-05 21:47:08,653 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 21:47:12,410 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 21:47:12,411 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 28
+ERROR 2022-09-05 21:47:13,864 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 21:47:13,865 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 28
+ERROR 2022-09-05 21:47:18,731 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 21:47:18,731 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 28
+INFO 2022-09-05 21:47:44,997 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 21:47:45,764 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 21:47:46,660 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 21:47:46,660 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 28
+ERROR 2022-09-05 21:47:47,765 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 21:47:47,766 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 28
+INFO 2022-09-05 21:56:25,961 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 21:56:29,151 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(status="500", exception=response.data.exe, data=response.exception.get("detail"),
+AttributeError: 'ReturnDict' object has no attribute 'exe'
+ERROR 2022-09-05 21:56:29,152 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99405
+ERROR 2022-09-05 21:56:31,026 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(status="500", exception=response.data.exe, data=response.exception.get("detail"),
+AttributeError: 'ReturnDict' object has no attribute 'exe'
+ERROR 2022-09-05 21:56:31,027 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99405
+INFO 2022-09-05 21:58:35,752 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 21:58:40,058 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(status="500", exception=response.data.exe, data=exc.get("detail"),
+AttributeError: 'ReturnDict' object has no attribute 'exe'
+ERROR 2022-09-05 21:58:40,059 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99375
+INFO 2022-09-05 21:58:48,950 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 21:58:52,945 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(status="500", exception=response.data.exe, data=exc.data.get("detail"),
+AttributeError: 'ReturnDict' object has no attribute 'exe'
+ERROR 2022-09-05 21:58:52,947 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99385
+INFO 2022-09-05 21:59:30,072 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 21:59:32,482 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(status="500", exception=True, data=exc.data.get("detail"),
+AttributeError: 'ValidationError' object has no attribute 'data'
+ERROR 2022-09-05 21:59:32,484 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99383
+INFO 2022-09-05 21:59:44,002 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 21:59:47,463 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type UserBrowserHistoryView is not JSON serializable
+ERROR 2022-09-05 21:59:47,464 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 104810
+ERROR 2022-09-05 22:01:04,979 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type UserBrowserHistoryView is not JSON serializable
+ERROR 2022-09-05 22:01:04,980 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 104810
+INFO 2022-09-05 22:01:05,033 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 22:01:06,109 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:01:08,085 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 220, in _get_response
+    response = response.render()
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/template/response.py", line 114, in render
+    self.content = self.rendered_content
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/response.py", line 70, in rendered_content
+    ret = renderer.render(self.data, accepted_media_type, context)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/renderers.py", line 100, in render
+    ret = json.dumps(
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/utils/json.py", line 25, in dumps
+    return json.dumps(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/__init__.py", line 234, in dumps
+    return cls(
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/utils/encoders.py", line 67, in default
+    return super().default(obj)
+  File "/Library/Frameworks/Python.framework/Versions/3.8/lib/python3.8/json/encoder.py", line 179, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+TypeError: Object of type UserBrowserHistoryView is not JSON serializable
+ERROR 2022-09-05 22:01:08,086 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 104810
+INFO 2022-09-05 22:02:44,306 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:02:46,751 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(status="500", exception=True, data=response.serialize(context))
+TypeError: serialize() takes 1 positional argument but 2 were given
+ERROR 2022-09-05 22:02:46,752 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99015
+INFO 2022-09-05 22:02:59,317 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 22:03:00,186 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:03:03,056 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 22:03:03,057 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 66
+INFO 2022-09-05 22:03:34,151 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:03:37,079 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(status="500", exception=True, data=response.data["detail"])
+KeyError: 'detail'
+ERROR 2022-09-05 22:03:37,081 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98857
+ERROR 2022-09-05 22:03:38,614 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(status="500", exception=True, data=response.data["detail"])
+KeyError: 'detail'
+ERROR 2022-09-05 22:03:38,615 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98857
+INFO 2022-09-05 22:03:48,112 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 22:03:48,858 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:03:50,082 log 241 Internal Server Error: /user/api/v1/history/add/
+ERROR 2022-09-05 22:03:50,083 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 66
+INFO 2022-09-05 22:05:05,229 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:05:07,934 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 66
+INFO 2022-09-05 22:05:09,026 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 66
+INFO 2022-09-05 22:07:10,105 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 22:07:10,899 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:08:50,130 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/myresponse.py changed, reloading.
+INFO 2022-09-05 22:08:51,172 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:09:16,550 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:09:21,186 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 66
+INFO 2022-09-05 22:09:34,735 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:09:37,147 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 66
+INFO 2022-09-05 22:09:39,062 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 66
+INFO 2022-09-05 22:11:13,565 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:11:17,540 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 89
+INFO 2022-09-05 22:12:03,363 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 89
+INFO 2022-09-05 22:12:37,533 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:12:40,494 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 77
+INFO 2022-09-05 22:13:49,862 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:13:51,582 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 39
+INFO 2022-09-05 22:13:53,865 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 39
+INFO 2022-09-05 22:14:07,122 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 22:14:07,941 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:14:09,612 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.data["detail"])
+KeyError: 'detail'
+ERROR 2022-09-05 22:14:09,613 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98844
+ERROR 2022-09-05 22:14:11,358 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.data["detail"])
+KeyError: 'detail'
+ERROR 2022-09-05 22:14:11,358 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98844
+INFO 2022-09-05 22:14:35,670 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:14:38,471 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.content)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/template/response.py", line 135, in content
+    raise ContentNotRenderedError(
+django.template.response.ContentNotRenderedError: The response content must be rendered before it can be accessed.
+ERROR 2022-09-05 22:14:38,473 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 103017
+ERROR 2022-09-05 22:14:39,638 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.content)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/template/response.py", line 135, in content
+    raise ContentNotRenderedError(
+django.template.response.ContentNotRenderedError: The response content must be rendered before it can be accessed.
+ERROR 2022-09-05 22:14:39,639 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 103017
+INFO 2022-09-05 22:15:27,930 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:15:31,437 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 52
+INFO 2022-09-05 22:44:09,021 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 52
+INFO 2022-09-05 22:44:09,405 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 52
+INFO 2022-09-05 22:44:30,032 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 22:44:30,906 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:44:32,932 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 54
+INFO 2022-09-05 22:44:34,057 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 54
+INFO 2022-09-05 22:46:39,412 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:46:41,918 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.data[0])
+KeyError: 0
+ERROR 2022-09-05 22:46:41,920 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98742
+INFO 2022-09-05 22:46:56,495 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:46:58,457 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.data.value)
+AttributeError: 'ReturnDict' object has no attribute 'value'
+ERROR 2022-09-05 22:46:58,459 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99048
+ERROR 2022-09-05 22:46:59,995 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.data.value)
+AttributeError: 'ReturnDict' object has no attribute 'value'
+ERROR 2022-09-05 22:46:59,995 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99048
+INFO 2022-09-05 22:47:05,892 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:47:08,333 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.data.value())
+AttributeError: 'ReturnDict' object has no attribute 'value'
+ERROR 2022-09-05 22:47:08,334 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99052
+ERROR 2022-09-05 22:47:09,391 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.data.value())
+AttributeError: 'ReturnDict' object has no attribute 'value'
+ERROR 2022-09-05 22:47:09,392 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99052
+INFO 2022-09-05 22:48:13,694 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:48:16,397 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.data['detail'])
+KeyError: 'detail'
+ERROR 2022-09-05 22:48:16,398 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98844
+ERROR 2022-09-05 22:48:17,985 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=response.data['detail'])
+KeyError: 'detail'
+ERROR 2022-09-05 22:48:17,985 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98844
+INFO 2022-09-05 22:49:32,256 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:49:34,725 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=res.data['detail'])
+KeyError: 'detail'
+ERROR 2022-09-05 22:49:34,726 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98829
+ERROR 2022-09-05 22:49:36,200 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=res.data['detail'])
+KeyError: 'detail'
+ERROR 2022-09-05 22:49:36,201 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98829
+INFO 2022-09-05 22:49:45,894 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:49:49,365 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=res.data.get['detail'])
+TypeError: 'builtin_function_or_method' object is not subscriptable
+ERROR 2022-09-05 22:49:49,367 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99047
+INFO 2022-09-05 22:50:34,642 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:50:37,460 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=res.data.exe['detail'])
+AttributeError: 'ReturnDict' object has no attribute 'exe'
+ERROR 2022-09-05 22:50:37,461 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99061
+INFO 2022-09-05 22:52:03,002 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:52:04,712 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=res.exc.detail['detail'])
+AttributeError: 'Response' object has no attribute 'exc'
+ERROR 2022-09-05 22:52:04,713 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 99057
+INFO 2022-09-05 22:53:02,551 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:53:07,576 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=res.data['detail'])
+KeyError: 'detail'
+ERROR 2022-09-05 22:53:07,578 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98829
+INFO 2022-09-05 22:53:55,051 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:53:57,736 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 77
+INFO 2022-09-05 22:54:00,493 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 77
+INFO 2022-09-05 22:54:56,957 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:54:58,804 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=res.content)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/template/response.py", line 135, in content
+    raise ContentNotRenderedError(
+django.template.response.ContentNotRenderedError: The response content must be rendered before it can be accessed.
+ERROR 2022-09-05 22:54:58,806 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 103002
+INFO 2022-09-05 22:55:21,623 autoreload 677 Watching for file changes with StatReloader
+ERROR 2022-09-05 22:55:24,023 log 241 Internal Server Error: /user/api/v1/history/add/
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/serializers.py", line 235, in is_valid
+    raise ValidationError(self.errors)
+rest_framework.exceptions.ValidationError: {'sku_id': [ErrorDetail(string='sku_id不存在', code='invalid')]}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/Users/daixiongkun/.virtualenvs/my_django_environment/lib/python3.8/site-packages/rest_framework/views.py", line 466, in handle_exception
+    response = exception_handler(exc, context)
+  File "/Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py", line 30, in exception_handler
+    return APIResponse(code=500, exception=True, desc=res.context_data())
+TypeError: 'NoneType' object is not callable
+ERROR 2022-09-05 22:55:24,024 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 500 98927
+INFO 2022-09-05 22:55:31,406 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:55:33,608 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 39
+INFO 2022-09-05 22:55:35,048 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 39
+INFO 2022-09-05 22:56:11,592 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:56:14,207 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 40
+INFO 2022-09-05 22:56:15,930 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 40
+INFO 2022-09-05 22:56:31,112 autoreload 266 /Users/daixiongkun/PycharmProjects/djangostudy/meiduo/meiduo/utils/exceptions.py changed, reloading.
+INFO 2022-09-05 22:56:32,038 autoreload 677 Watching for file changes with StatReloader
+INFO 2022-09-05 22:56:33,013 basehttp 187 "POST /user/api/v1/history/add/ HTTP/1.1" 200 78
+INFO 2022-09-05 22:57:20,042 basehttp 187 "GET /goods/api/v1/115/sku/?page=1&page_size=5&ordering=-create_time HTTP/1.1" 200 1387
+INFO 2022-09-05 22:57:22,609 basehttp 187 "GET /goods/api/v1/115/sku/?page=2&page_size=5&ordering=-create_time HTTP/1.1" 200 1430
+INFO 2022-09-05 22:57:23,879 basehttp 187 "GET /goods/api/v1/115/sku/?page=3&page_size=5&ordering=-create_time HTTP/1.1" 200 1087
+INFO 2022-09-05 22:57:25,442 basehttp 187 "OPTIONS /user/api/v1/userDetail/2/ HTTP/1.1" 200 0
+INFO 2022-09-05 22:57:25,453 basehttp 187 "GET /user/api/v1/userDetail/2/ HTTP/1.1" 200 124
+INFO 2022-09-05 22:57:25,459 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-05 22:57:25,479 basehttp 187 "GET /user/api/v1/history/add/ HTTP/1.1" 200 1263
+INFO 2022-09-05 22:57:29,099 basehttp 187 "OPTIONS /user/api/v1/userDetail/2/ HTTP/1.1" 200 0
+INFO 2022-09-05 22:57:29,109 basehttp 187 "GET /user/api/v1/userDetail/2/ HTTP/1.1" 200 124
+INFO 2022-09-05 22:57:29,112 basehttp 187 "OPTIONS /user/api/v1/history/add/ HTTP/1.1" 200 0
+INFO 2022-09-05 22:57:29,119 basehttp 187 "GET /user/api/v1/history/add/ HTTP/1.1" 200 1263
+INFO 2022-09-05 22:58:32,257 basehttp 187 "OPTIONS /user/api/v1/updateEmail/undefined/ HTTP/1.1" 200 0
+INFO 2022-09-05 22:58:32,351 basehttp 187 "PUT /user/api/v1/updateEmail/undefined/ HTTP/1.1" 200 71
